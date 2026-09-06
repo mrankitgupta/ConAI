@@ -1,0 +1,7 @@
+SAMPLE RFP — Synthetic demonstration data only. Not a real client document.
+
+The vendor shall provide a proposal automation capability with a 48-hour SLA
+for RFP responses. The system must integrate with the existing CRM. Evaluation
+criteria include total cost of ownership, scalability, data security compliance,
+and implementation timeline. The solution should support role-based access
+control and provide audit logging of all AI-generated content.
